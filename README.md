@@ -14,7 +14,7 @@ A React web application for tracking personal finances, featuring real-time data
 ## Tech
 * **Frontend:** React.js (Vite)
 * **Logic:** JavaScript (ES6+) using `.filter()` and `.reduce()`
-* **Styling:** CSS (Fanta.css {https://github.com/jamezmca/fantacss} by jamezmca)
+* **Styling:** CSS (Fanta.css (https://github.com/jamezmca/fantacss) by jamezmca)
 * **Deployment:** Netlify with GitHub CI/CD integration
 
 ---
