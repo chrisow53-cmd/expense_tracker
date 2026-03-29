@@ -65,7 +65,6 @@ function App() {
         </button>
       </div>
       
-      {/* UPDATE THIS LINE TO ADD THE PROP: */}
       <ExpenseTracker 
         tracker={filteredTracker} 
         onDeleteExpense={deleteExpense} 
